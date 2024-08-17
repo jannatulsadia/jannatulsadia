@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadia</h1>
-<h3 align="center">I am a CSE student in American International University Bangladesh.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
